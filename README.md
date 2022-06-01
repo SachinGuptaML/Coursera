@@ -1,2 +1,3 @@
 # Coursera_Assignment
-Practice Assignment and Final Project for each chapter of  "IBM Data Science Professional Certificate" course 
+Practice Assignment and Final Projects for each chapter of  "IBM Data Science Professional Certificate" course.
+Uploading project assignments
